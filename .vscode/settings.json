@@ -1,0 +1,5 @@
+{
+  "git.ignoreLimitWarning": true,
+  "appService.defaultWebAppToDeploy": "/subscriptions/f66563d4-9169-4668-bba1-da38cb7e5548/resourceGroups/naga-group/providers/Microsoft.Web/sites/naga-admin-client/slots/dev",
+  "appService.deploySubpath": "."
+}
